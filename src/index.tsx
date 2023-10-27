@@ -13,7 +13,5 @@ const root = createRoot(container)
 
 
 root.render(
-    <div>
         <App />
-    </div>
 )

@@ -1,0 +1,18 @@
+.MainLayout {
+    display: flex;
+    flex-direction: column;
+}
+
+.headerContainer{
+    display: flex;
+}
+
+.contentContainer{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+}
+
+.footerContainer {
+    display: flex;
+}
